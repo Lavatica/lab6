@@ -1,0 +1,130 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.bun-top {
+  height: 70px;
+  width: 60%;
+  background: #f1c229;
+  border-radius: 100px 100px 20px 20px;
+  border-bottom: solid 10px rgba(0,0,0,.1);
+}
+
+.cheese {
+  height: 15px;
+  width: 65%;
+  background: #ef8421;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.tomato {
+  height: 20px;
+  width: 45%;
+  background-color: #b82603;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.meatball {
+  height: 50px;
+  width: 70px;
+  background: #a14605;
+  border-radius: 50px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.patty {
+  height: 40px;
+  width: 65%;
+  background: #ae5230;
+  border-radius: 15px;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.pickle {
+  height: 30px;
+  width: 50%;
+  background: #57d995;
+  border-radius: 0 0 100px 100px;
+  border-bottom: solid 10px #2d9961;
+}
+
+.onion {
+  width: 45%;
+  background-color: #5e1160;
+  border-top: dotted 20px rgba(255,255,255,.2);
+}
+
+.bun-bottom {
+  height: 35px;
+  width: 60%;
+  background: #f1c229;
+  border-radius: 20px 20px 40px 40px;
+  border-top: solid 8px rgba(0,0,0,.1)
+}
+
+.plate {
+  height: 30px;
+  width: 90%;
+  background: #c3b3b3;
+  border-radius: 20px 20px 200px 200px;
+}
+
+.bun-top2 {
+  height: 48px;
+  width: 55%;
+  background: #efc292;
+  border-radius: 100px 100px 20px 20px;
+  border-bottom: solid 10px rgba(0,0,0,.2);
+}
+
+.cheese2 {
+  height: 15px;
+  width: 65%;
+  background: #ef8421;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.tomato2 {
+  height: 20px;
+  width: 45%;
+  background-color: #b82603;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.patty2 {
+  height: 60px;
+  width: 55%;
+  background: #ae5230;
+  border-radius: 20px;
+  border-bottom: dashed 2px rgba(0,0,0,.1);
+}
+
+.pickle2 {
+  height: 30px;
+  width: 50%;
+  background: #8fe2b7;
+  border-radius: 0 0 100px 100px;
+  border-bottom: solid 10px #2d9961;
+}
+
+.onion2 {
+  width: 45%;
+  background-color: #d597dd;
+  border-top: dotted 20px rgba(255,255,255,.3);
+  border-bottom: solid 2px rgba(255, 255, 255,.3);
+}
+
+.bun-bottom2 {
+  height: 40px;
+  width: 55%;
+  background: #efc292;
+  border-radius: 20px 20px 40px 40px;
+  border-top: solid 8px rgba(0,0,0,.2)
+}
+
+.plate2 {
+  height: 20px;
+  width: 82%;
+  background: #559138;
+  border-radius: 20px 20px 200px 200px;
+}
